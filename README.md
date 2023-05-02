@@ -2,11 +2,11 @@
 
 <h1 align="center" style="font-size:250px">Welcome to My Profile</h1>
 
+
 <p align="center">
-
     <img src="https://telegra.ph/file/743e6d0b7fde680142715.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
-
 </p>
+
 
 - 🔭 I’m currently working on ...
 
@@ -49,7 +49,12 @@
 <p align="center">
 
 <a href="https://www.instagram.com/arifzyn19">
+<img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+    </p>
+    <p align="center">
 
-<img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-arifzyn19-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://wm.me/62895347198105">
 
-</p>
+<img alt="Wwatsapp" title="follow me <3" src="https://img.shields.io/badge/-whatsapp-E4405F?style=flat&logo=Whatsapp&logoColor=white"/></a>
+    </p>
+
