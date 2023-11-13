@@ -46,15 +46,12 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-
 <a href="https://www.instagram.com/arifzyn19">
 <img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-    </p>
-    <p align="center">
+
 
 <a href="https://wm.me/62895347198105">
 
 <img alt="Wwatsapp" title="follow me <3" src="https://img.shields.io/badge/-whatsapp-E4405F?style=flat&logo=Whatsapp&logoColor=white"/></a>
-    </p>
+    
 
